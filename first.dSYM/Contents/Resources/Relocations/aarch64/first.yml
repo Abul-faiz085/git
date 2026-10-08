@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/abulfaiz/Desktop/test/first'
+relocations:     []
+...
